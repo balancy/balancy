@@ -10,7 +10,7 @@
 📖 &nbsp; Like to learn new technologies and skills\
 👀 &nbsp; Interested in investing and cryptocurrencies\
 :fr: &nbsp; Have two nationalities: Russian and French. Currently, live in France\
-💬 &nbsp; Feel free to reach out to me for questions\
+💬 &nbsp; Feel free to reach out to me for questions
 
 ### 🛠 Tech Stack
 
@@ -25,8 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-FFFFFF?style=flat&logo=markdown&logoColor=000000)&nbsp;
