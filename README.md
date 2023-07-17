@@ -36,7 +36,6 @@
 
 <p>
 <a href="https://github.com/balancy/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=balancy&show_icons=true&theme=radical&include_all_commits=true&theme=transparent&hide=contribs"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balancy&&layout=compact"/>
 </a>
 </p>
